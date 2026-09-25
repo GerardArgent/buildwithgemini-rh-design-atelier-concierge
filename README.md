@@ -1,7 +1,8 @@
-# simple-agent
+# RH Design Atelier Concierge
 
-Simple ReAct agent
-Agent generated with `agents-cli` version `1.4.0`
+A luxury conversational interior design assistant that helps homeowners and designers curate, visualize, and furnish spaces with the RH catalog. Built with Google ADK on Agent Engine, featuring Vertex AI Memory Bank, Agent Engine Python Sandbox, Gemini Image Generation, and A2UI rich visual cards.
+
+![RH Design Atelier Concierge Demo](demo.gif)
 
 ## Project Structure
 
